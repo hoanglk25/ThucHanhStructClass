@@ -44,3 +44,4 @@ struct sinhVien {
         self.diemTb = (diemTb+diemLy+diemHoa)/3
     }
 }
+
